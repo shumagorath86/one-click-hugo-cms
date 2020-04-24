@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a conscience
+title: Is it?
 subtitle: Support sustainable farming while enjoying a cup
 image: img/about-single-origin.jpg
 blurb:
